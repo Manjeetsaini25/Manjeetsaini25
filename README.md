@@ -25,5 +25,3 @@ Hi, I'm Manjeet Saini, an Electrical Engineering undergraduate at NIT Patna.
 
 ---
 [![](https://komarev.com/ghpvc/?username=Manjeetsaini25&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> isme compitive programmer mention karo, vlsi me interest hai ye bhi batao
